@@ -61,8 +61,17 @@
         <mxCell id="MC5am3bXcMpyfJ8UCvmq-26" value="Главное окно" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1145" y="805" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC5am3bXcMpyfJ8UCvmq-27" value="Гость" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="MC5am3bXcMpyfJ8UCvmq-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MC5am3bXcMpyfJ8UCvmq-27" target="MC5am3bXcMpyfJ8UCvmq-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MC5am3bXcMpyfJ8UCvmq-27" value="Гость" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#F19C99;" vertex="1" parent="1">
           <mxGeometry x="1055" y="805" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MC5am3bXcMpyfJ8UCvmq-33" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="785" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MC5am3bXcMpyfJ8UCvmq-34" value="Панель пользователя" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="810" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
