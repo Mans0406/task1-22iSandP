@@ -34,17 +34,19 @@
         <mxCell id="oFTj1LXSibeB5si3AhuW-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oFTj1LXSibeB5si3AhuW-3" target="oFTj1LXSibeB5si3AhuW-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oFTj1LXSibeB5si3AhuW-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oFTj1LXSibeB5si3AhuW-3" target="oFTj1LXSibeB5si3AhuW-12">
+        <mxCell id="oFTj1LXSibeB5si3AhuW-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oFTj1LXSibeB5si3AhuW-3" target="oFTj1LXSibeB5si3AhuW-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oFTj1LXSibeB5si3AhuW-3" value="Регистрация" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-610" y="-1000" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oFTj1LXSibeB5si3AhuW-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oFTj1LXSibeB5si3AhuW-12" target="oFTj1LXSibeB5si3AhuW-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oFTj1LXSibeB5si3AhuW-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.252;entryY=0.126;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oFTj1LXSibeB5si3AhuW-12" target="oFTj1LXSibeB5si3AhuW-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-590" y="-700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="oFTj1LXSibeB5si3AhuW-12" value="Меню регистрации" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="-920" width="120" height="80" as="geometry" />
+          <mxGeometry x="-653" y="-850" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oFTj1LXSibeB5si3AhuW-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="oFTj1LXSibeB5si3AhuW-55" target="oFTj1LXSibeB5si3AhuW-43">
           <mxGeometry relative="1" as="geometry" />
